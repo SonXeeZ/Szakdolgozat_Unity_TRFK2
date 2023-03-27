@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1076729519084",
+    "project_id": "szakdolgozattrfk",
+	"firebase_url": "https://szakdolgozattrfk-default-rtdb.europe-west1.firebasedatabase.app/",
+    "storage_bucket": "szakdolgozattrfk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076729519084:android:79590660c725936c56bec9",
+        "android_client_info": {
+          "package_name": "com.TRFK.SzakdolgozatUnityTRFK"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076729519084-nqofr5df3ensvn74oukdmpeikf5sr048.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYHSOk7k7I63JLgu9mdq8qS0I4d9Sk-tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076729519084-nqofr5df3ensvn74oukdmpeikf5sr048.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
